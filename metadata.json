@@ -1,0 +1,5 @@
+{
+  "name": "DataToyAI",
+  "description": "An intelligent data cleaning interface powered by Gemini. Upload datasets, ask the AI to clean, transform, or impute missing values using natural language commands.",
+  "requestFramePermissions": []
+}
